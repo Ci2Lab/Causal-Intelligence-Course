@@ -47,16 +47,14 @@ By the end of the course, students should be able to:
 
 ## Course Chapters
 
-
 | Chapter | Title | Main Points |
 |---|---|---|
-| 1 | [Foundations of Causal Intelligence](https://github.com/Ci2Lab/Causal-Intelligence-Course/blob/main/Lectures/01_Foundations_of_Causal_Intelligence.ipynb) | Prediction vs. causality; association, intervention, and counterfactuals; Pearl’s causal ladder; observational vs. experimental data; confounding and selection bias. |
-| 2 | [Causal Graphs and Discovery](https://github.com/Ci2Lab/Causal-Intelligence-Course/blob/main/Lectures/02_Causal_Graphs_Discovery.ipynb) | DAGs as assumption maps; forks, chains, and colliders; d-separation; backdoor adjustment; causal discovery as graph refinement. |
-| 3 | [Causal Machine Learning](https://github.com/Ci2Lab/Causal-Intelligence-Course/blob/main/Lectures/03_Causal_ML.ipynb) | Potential outcomes; ATE, ATT, ATU, and CATE; meta-learners; heterogeneous treatment effects; Double Machine Learning. |
-| 4 | [Causal Intelligence in Practice](https://github.com/Ci2Lab/Causal-Intelligence-Course/blob/main/Lectures/04_Causal_Intelligence_Practice.ipynb) | Causal question formulation; variable audit; candidate DAGs; identification strategy; estimation; robustness checks; responsible reporting. |
-| 5 | [Causal AI for Robust, Explainable, and Adaptive Systems](https://github.com/Ci2Lab/Causal-Intelligence-Course/blob/main/Lectures/05_Causal_AI_Robust_Explainable_Adaptive.ipynb) | Distribution shift; shortcut learning; causal explainability; intervention effects; decision intelligence; adaptive AI systems. |
-| Final Project | [Course Project](https://github.com/Ci2Lab/Causal-Intelligence-Course/blob/main/Lectures/Course_Project_2026.ipynb) | Check the project description. |
-
+| 1 | [Foundations of Causal Intelligence](Lectures/01_Foundations_of_Causal_Intelligence.ipynb) | Prediction vs. causality; association, intervention, and counterfactuals; Pearl’s causal ladder; observational vs. experimental data; confounding and selection bias. |
+| 2 | [Causal Graphs and Discovery](Lectures/02_Causal_Graphs_and_Discovery.ipynb) | DAGs as assumption maps; forks, chains, and colliders; d-separation; backdoor adjustment; causal discovery as graph refinement. |
+| 3 | [Causal Machine Learning](Lectures/03_Causal_Machine_Learning.ipynb) | Potential outcomes; ATE, ATT, ATU, and CATE; meta-learners; heterogeneous treatment effects; Double Machine Learning. |
+| 4 | [Causal Intelligence in Practice](Lectures/04_Causal_Intelligence_in_Practice.ipynb) | Causal question formulation; variable audit; candidate DAGs; identification strategy; estimation; robustness checks; responsible reporting. |
+| 5 | [Causal AI for Robust, Explainable, and Adaptive Systems](Lectures/05_Causal_AI_Robust_Explainable_Adaptive.ipynb) | Distribution shift; shortcut learning; causal explainability; intervention effects; decision intelligence; adaptive AI systems. |
+| Final Project | [Course Project](Lectures/Course_Project_2026.ipynb) | Project description, deliverables, timeline, and assessment. |
 
 ---
 
