@@ -6,7 +6,6 @@
 **Instructor:** [Prof. Reza Arghandeh](https://www.hvl.no/en/employee/?user=Reza.Arghandeh)<br>
 **Institution:** Western Norway University of Applied Sciences (HVL), Norway<br>
 **Course level:** PhD/MS<br>  
-**Year:** 2026
 
 ---
 
