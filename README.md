@@ -73,7 +73,7 @@ The course material may be updated before or during teaching. Some examples, not
 
 If you use or adapt material from this course, please cite it as:
 
-Arghandeh, Reza. (2026). *Causal Intelligence Course: From Prediction to Reasoning to Decision Intelligence*. Western Norway University of Applied Sciences (HVL). https://github.com/Ci2Lab/Causal-Intelligence-Course
+Arghandeh, R. (2026). *Causal Intelligence Course: From Prediction to Reasoning to Decision Intelligence*. Western Norway University of Applied Sciences (HVL). https://github.com/Ci2Lab/Causal-Intelligence-Course
 
 ---
 
