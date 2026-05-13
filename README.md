@@ -57,29 +57,6 @@ By the end of the course, students should be able to:
 | 5 | [Causal AI for Robust, Explainable, and Adaptive Systems](https://github.com/Ci2Lab/Causal-Intelligence-Course/blob/main/Lectures/05_Causal_AI_Robust_Explainable_Adaptive.ipynb) | Distribution shift; shortcut learning; causal explainability; intervention effects; decision intelligence; adaptive AI systems. |
 | Final Project | [Course Project](https://github.com/Ci2Lab/Causal-Intelligence-Course/blob/main/Lectures/Course_Project_2026.ipynb) | Check the project description. |
 
----
-
-## Course Progression
-
-The course moves from foundational causal concepts to practical decision intelligence for real-world AI systems.
-
-```text
-Prediction
-   ↓
-Association, intervention, and counterfactuals
-   ↓
-Causal assumptions and graphical reasoning
-   ↓
-Causal discovery and adjustment
-   ↓
-Causal machine learning
-   ↓
-Applied causal workflow
-   ↓
-Robust, explainable, and adaptive AI
-   ↓
-Decision intelligence
-```
 
 ---
 
