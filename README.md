@@ -1,7 +1,7 @@
 # Causal Intelligence Course
 ## From Prediction to Reasoning to Decision Intelligence
 
-![img](lectures/img/Cover/WHY_README.png)
+![Course cover](Lectures/img/WHY_README.jpg)
 
 **Instructor:** [Prof. Reza Arghandeh](https://www.hvl.no/en/employee/?user=Reza.Arghandeh)<br>
 **Institution:** Western Norway University of Applied Sciences (HVL), Norway<br>
