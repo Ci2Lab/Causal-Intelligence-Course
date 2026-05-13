@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this course material, please cite it as below."
+type: software
+title: "Causal Intelligence Course: From Prediction to Reasoning to Decision Intelligence"
+authors:
+  - family-names: "Arghandeh"
+    given-names: "Reza"
+    affiliation: "Western Norway University of Applied Sciences (HVL)"
+year: 2026
+version: "v2026.1"
+date-released: "2026-05-14"
+repository-code: "https://github.com/Ci2Lab/Causal-Intelligence-Course"
+url: "https://github.com/Ci2Lab/Causal-Intelligence-Course"
+license: "MIT"
+keywords:
+  - causal inference
+  - causal intelligence
+  - causal discovery
+  - causal machine learning
+  - counterfactual reasoning
+  - explainable AI
+  - robust AI
+  - decision intelligence
