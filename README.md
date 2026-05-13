@@ -71,7 +71,7 @@ The course notebooks include chapter-specific references and further reading.
 The course material may be updated before or during teaching. Some examples, notebooks, references, and project instructions may change slightly to reflect student backgrounds, available time, and recent developments in causal AI.
 
 ---
-## Citation
+## How to cite this course
 
 If you use or adapt material from this course, please cite it as:
 
