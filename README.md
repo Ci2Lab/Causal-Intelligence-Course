@@ -71,6 +71,13 @@ The course notebooks include chapter-specific references and further reading.
 The course material may be updated before or during teaching. Some examples, notebooks, references, and project instructions may change slightly to reflect student backgrounds, available time, and recent developments in causal AI.
 
 ---
+## Citation
+
+If you use or adapt material from this course, please cite it as:
+
+Arghandeh, Reza. (2026). *Causal Intelligence Course: From Prediction to Reasoning to Decision Intelligence*. Western Norway University of Applied Sciences (HVL). https://github.com/Ci2Lab/Causal-Intelligence-Course
+
+---
 
 ## License
 
