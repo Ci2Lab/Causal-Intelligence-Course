@@ -1,5 +1,5 @@
 # Causal Intelligence Course
-## From Prediction to Reasoning to Decision Intelligence
+## From Inference to Decision Intelligence
 
 ![Course cover](Lectures/img/WHY_README.jpg)
 
